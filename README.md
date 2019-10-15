@@ -1,3 +1,3 @@
 # URL encode data
 
-Got annoyed piped graphql queries through awk.
+Got annoyed piping graphql queries through awk.
